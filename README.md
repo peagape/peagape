@@ -1,29 +1,61 @@
-## Olá eu sou o Flávio Rocha!! 
- <div>
-  <a href="https://github.com/peagape">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peagape&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peagape&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="peagape-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="peagape-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="peagape-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="peagape-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="peagape-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="peagape-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="peagape-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-</div>
-  
-  ##
- 
-<div> 
- 
-  <a href="https://instagram.com/aoflavio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/aoflavio" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:flaviorocha.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/flaviodev1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
- 
-</div>
+:computer: _Android Developer at [33Labs](https://33labs.com/)_ ☀️ Living in Brazil :brazil:
+
+<img align="right" width="400" height="400" src="https://camo.githubusercontent.com/79df4e5924940012bdb80875fef651b3563bf2888423bdc918b8402883554747/68747470733a2f2f33336c6162732e636f6d2e62722f4176617461724d616b65722e706e67">
+
+<img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=peagape" /> 
+
+# Hi there, I'm Flávio
+
+I’m currently working on mobile development with technologies like B4a, JavaScript, React, Expo, React Native etc.
+
+
+## About me 
+
+🎮 Gaming | ✈️ Travel | 📚 Learning
+
+- :earth_americas: I'm from São Paulo - Brazil
+- :iphone: Apple Development Enthusiast
+- 📚 I’m currently learning everything about JS and Expo Node, Flutter.
+
+## Contact me :mailbox_with_no_mail:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Flavio_Rocha-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/flaviodev1/)](https://www.linkedin.com/in/flaviodev1/) 
+[![Gmail](https://img.shields.io/badge/-flaviorocha.dev1@gmail.com-black?style=flat-square&logo=Gmail)](mailto:flaviorocha.dev@gmail.com)
+
+
+### My Tech Stack
+
+#### Languages
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![B4A](https://img.shields.io/badge/b4a-black?style=flat-square&logo=android)
+
+#### Technologies
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
+![B4A](https://img.shields.io/badge/b4a-black?style=flat-square&logo=android)
+
+#### Cloud
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+#### Tools and Others
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=Visual-Studio-Code)
+![Apple](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=Apple)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
