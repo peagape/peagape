@@ -1,21 +1,21 @@
 :computer: _Android Developer na [33Labs](https://33labs.com/)_ ☀️ :brazil:
 
-<img align="right" width="300" height="300" src="https://camo.githubusercontent.com/79df4e5924940012bdb80875fef651b3563bf2888423bdc918b8402883554747/68747470733a2f2f33336c6162732e636f6d2e62722f4176617461724d616b65722e706e67">
+<img align="right" width="300" height="300" src="https://1.bp.blogspot.com/-KLg5TEY1v6U/T6P9I6YPZwI/AAAAAAAABEc/iYpstw_ouMQ/s1600/Mr_bean.jpg">
 
 <img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=peagape" /> 
 
 # Olá, eu sou o Flávio
 
-Atualmente, estou trabalhando no desenvolvimento móvel com tecnologias como Flutter, B4A, Expo, RN etc..
+Atualmente, estou trabalhando no desenvolvimento móvel com tecnologias como Flutter, B4A e RN.
 
 
 ## Sobre mim 
 
 🎮 Gaming | ✈️ Travel | 📚 Learning
 
-- :earth_americas: Sou de São Paulo - Brazil
+- :earth_americas: Sou de Poá - São Paulo - Brazil
 - :iphone: Entusiasta de desenvolvimento Apple
-- 📚 Atualmente, estou aprendendo tudo sobre Flutter, JS e Expo Node.
+- 📚 Atualmente, estou aprendendo tudo sobre Flutter/Dart.
 
 ## Contate-me :mailbox_with_no_mail:
 
