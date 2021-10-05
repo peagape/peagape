@@ -1,4 +1,4 @@
-:computer: _Android Developer na [33Labs](https://33labs.com/)_ ☀️ :brazil:
+:computer: _Android Developer na [33Labs](https://33labs.com.br/)_ ☀️ :brazil:
 
 <img align="right" width="300" height="300" src="https://1.bp.blogspot.com/-KLg5TEY1v6U/T6P9I6YPZwI/AAAAAAAABEc/iYpstw_ouMQ/s1600/Mr_bean.jpg">
 
@@ -6,7 +6,7 @@
 
 # Olá, eu sou o Flávio
 
-Atualmente, estou trabalhando no desenvolvimento móvel com tecnologias como Flutter, B4A e RN.
+Atualmente, estou trabalhando no desenvolvimento mobile com tecnologias como Flutter, B4A.
 
 
 ## Sobre mim 
@@ -40,7 +40,6 @@ Atualmente, estou trabalhando no desenvolvimento móvel com tecnologias como Flu
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
 ![B4A](https://img.shields.io/badge/B4A-black?style=flat-square&logo=android)
 
 #### Cloud
