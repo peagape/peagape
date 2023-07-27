@@ -1,10 +1,10 @@
-:computer: _Android Developer na [33Labs](https://33labs.com.br/)_ ☀️ :brazil:
+:computer: _Android Developer na [33Labs]()_ ☀️ :brazil:
 
 <img align="right" width="300" height="300" src="https://1.bp.blogspot.com/-KLg5TEY1v6U/T6P9I6YPZwI/AAAAAAAABEc/iYpstw_ouMQ/s1600/Mr_bean.jpg">
 
 <img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=peagape" /> 
 
-# Olá, eu sou o Flávio
+# Opa,
 
 Atualmente, estou trabalhando no desenvolvimento mobile com tecnologias como Flutter, B4A.
 
@@ -13,13 +13,12 @@ Atualmente, estou trabalhando no desenvolvimento mobile com tecnologias como Flu
 
 🎮 Gaming | ✈️ Travel | 📚 Learning
 
-- :earth_americas: Sou de Poá - São Paulo - Brazil
+- :earth_americas: São Paulo - Brazil
 - :iphone: Entusiasta de desenvolvimento Apple
-- 📚 Atualmente, estou aprendendo tudo sobre Flutter/Dart.
+- 📚 Atualmente, estou aprendendo sobre Flutter/Dart.
 
 ## Contate-me :mailbox_with_no_mail:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Flavio_Rocha-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/flaviodev1/)](https://www.linkedin.com/in/flaviodev1/) 
 [![Gmail](https://img.shields.io/badge/-flaviorocha.dev1@gmail.com-black?style=flat-square&logo=Gmail)](mailto:flaviorocha.dev@gmail.com)
 
 
