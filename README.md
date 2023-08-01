@@ -19,7 +19,7 @@ Atualmente, estou trabalhando no desenvolvimento mobile com tecnologias como Flu
 
 ## Contate-me :mailbox_with_no_mail:
 
-[![Gmail](https://img.shields.io/badge/-flaviorocha.dev1@gmail.com-black?style=flat-square&logo=Gmail)](mailto:flaviorocha.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/-flaviorocha.dev@gmail.com-black?style=flat-square&logo=Gmail)](mailto:flaviorocha.dev@gmail.com)
 
 
 ### Minha pilha de tecnologia
