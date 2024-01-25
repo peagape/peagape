@@ -1,6 +1,6 @@
 :computer: _Android Developer na [33Labs]()_ ☀️ :brazil:
 
-<img align="right" width="300" height="300" src="https://1.bp.blogspot.com/-KLg5TEY1v6U/T6P9I6YPZwI/AAAAAAAABEc/iYpstw_ouMQ/s1600/Mr_bean.jpg">
+<img align="right" width="300" height="300" src="https://img.nimo.tv/t/2429525755757/202009291601375529718_2429525755757_avatar.png/l0/img.png">
 
 <img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=peagape" /> 
 
